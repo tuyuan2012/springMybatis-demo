@@ -17,7 +17,7 @@
 	<classpathentry kind="lib" path="lib/log4j-api-2.0-rc1.jar"/>
 	<classpathentry kind="lib" path="lib/log4j-core-2.0-rc1.jar"/>
 	<classpathentry kind="lib" path="lib/mybatis-3.2.7.jar"/>
-	<classpathentry kind="lib" path="lib/mybatis-spring-1.2.2.jar" sourcepath="F:/教学/mybatis/jar包/mybatis-spring-1.2.2-sources"/>
+	<classpathentry kind="lib" path="lib/mybatis-spring-1.2.2.jar" sourcepath="/Volumes/HD/jave物联网学习/2015黑马（从struts2开始）/2015黑马15期（day36--）/day66_mybatis_day02/资料/source/mybatis-3.2.7-source.zip"/>
 	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.7-bin.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-api-1.7.5.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.5.jar"/>
