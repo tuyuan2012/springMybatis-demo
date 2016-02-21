@@ -40,11 +40,13 @@
 	</bean>
 	
 	<!-- mapper代理方法，使用MapperFactoryBean -->
-	<!-- <bean id="userMapper" class="org.mybatis.spring.mapper.MapperFactoryBean">
+	<!-- 
+		<bean id="userMapper" class="org.mybatis.spring.mapper.MapperFactoryBean">
 			mapper接口地址
 			<property name="mapperInterface" value="cn.itcast.mybatis.mapper.UserMapper"/>
 			<property name="sqlSessionFactory" ref="sqlSessionFactory"/>
-	</bean> -->
+		</bean> 
+	-->
 	<!-- 使用MapperScannerConfigurer扫描mapper
 	扫描器将mapper扫描出来自动 注册到spring容器，bean的id是类名(首字母小写)
 	 -->
